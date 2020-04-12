@@ -27,7 +27,7 @@ The R script called run_analysis.R does the following:
 
 ## Other Notes
 
-The zip file from the second link above needs to be unpacked.
+The zip file from the second link above needs to be downloaded and unpacked.
 
 The code book can be found in the file CodeBook.md, which explains the transformations done to the data.
 
